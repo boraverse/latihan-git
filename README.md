@@ -7,5 +7,3 @@ untuk membuat `branch`
 ```bash
 $ git checkout -b edit-1
 ```
-
-Isi untuk ke 2
